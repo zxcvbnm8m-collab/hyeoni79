@@ -1,0 +1,6 @@
+{
+  "name": "계룡시 폐기물 판매소 안내",
+  "description": "충청남도 계룡시 대형폐기물 스티커 및 음식물폐기물 납부필증 지정판매소 관리와 거주지 주소 기반 최단거리 판매소 안내 서비스",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
